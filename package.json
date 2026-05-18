@@ -1,0 +1,19 @@
+{
+  "name": "dou-dizhu-game",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "斗地主H5游戏 - Phaser.js 3.x + TypeScript",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.80.1",
+    "xstate": "^5.18.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5",
+    "vite": "^5.2.10"
+  }
+}
